@@ -1,0 +1,3 @@
+--- CHANGES INTRODUCED IN ZNERD OSS PARENT 1 ---------------------------------
+
+* Initial version.
