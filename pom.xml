@@ -36,7 +36,15 @@
       <id>ernst</id>
       <name>Ernst de Haan</name>
       <email>ernst@ernstdehaan.com</email>
+      <url>http://ernstdehaan.com/</url>
+      <roles>
+        <role>architect</role>
+        <role>developer</role>
+      </roles>
       <timezone>Europe/Amsterdam</timezone>
+      <properties>
+        <picUrl>http://ernstdehaan.com/ernst.jpg</picUrl>
+      </properties>
     </developer>
   </developers>
 
