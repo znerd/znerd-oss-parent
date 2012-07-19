@@ -3,7 +3,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>znerd-oss-parent</artifactId>
   <packaging>pom</packaging>
-  <version>2-SNAPSHOT</version>
+  <version>2</version>
 
   <name>Znerd.org OSS Parent</name>
   <description>Parent for znerd.org OSS projects</description>
@@ -23,7 +23,7 @@
     <connection>scm:git:git@github.com:znerd/znerd-oss-parent.git</connection>
     <developerConnection>scm:git:git@github.com:znerd/znerd-oss-parent.git</developerConnection>
     <url>git@github.com:znerd/znerd-oss-parent.git</url>
-    <tag>HEAD</tag>
+    <tag>znerd-oss-parent-2</tag>
   </scm>
 
   <issueManagement>
