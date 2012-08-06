@@ -2,6 +2,7 @@
 
 * Updated dependency on Javadoc plugin from 2.8 to 2.8.1.
 * Updated dependency on JAR plugin from 2.3.1 to 2.4.
+* Added Eclipse plugin dependency in dependencyManagement section.
 
 
 --- CHANGES INTRODUCED IN ZNERD OSS PARENT 2 ---------------------------------
