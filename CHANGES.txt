@@ -1,6 +1,7 @@
 --- CHANGES INTRODUCED IN ZNERD OSS PARENT 3 ---------------------------------
 
 * Updated dependency on Javadoc plugin from 2.8 to 2.8.1.
+* Updated dependency on JAR plugin from 2.3.1 to 2.4.
 
 
 --- CHANGES INTRODUCED IN ZNERD OSS PARENT 2 ---------------------------------
